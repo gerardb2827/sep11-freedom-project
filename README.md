@@ -1,8 +1,8 @@
 # SEP11 Freedom Project
-by Gerard Bankhead
+by **Gerard Bankhead**
 
 ## Context
-The "Freedom Project" for SEP11 is all about X. The purpose of this blog is to X.
+The _"Freedom Project"_ for SEP11 is all about independently learning a tool and creating a project with that tool. The purpose of this blog is to take the reader on my journey, and thought process in how I came up with this project.
 
 ## Content
 For my project, I am making X. This blog will walk through my process of independently studying Machine Learning in order to make X.
