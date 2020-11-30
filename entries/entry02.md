@@ -1,12 +1,12 @@
 # Entry 2
 ##### 12/1/22
 
-   For my project I have decided to use <a href:"https://ml5js.org/"_>**Ml5**_</a> a machine learning tool for the web, that runs in your web browser. 
+   For my project I have decided to use <a href="https://ml5js.org/"_>**Ml5**_</a> a machine learning tool for the web, that runs in your web browser. 
 I have chosen this tool because it perfectly suits my needs. I have done some tinkering with it, and it is challenging enough for me to explore while having somewhat of an understanding of the code. 
 I have come across many machine learning videos separate from Ml5 with useful concepts to help me understand it better.
-However I found the videos listed on the Ml5 to be more useful in <a href:"https://www.youtube.com/watch?v=jmznx0Q1fP0">understanding machine learning.</a>
+However I found the videos listed on the Ml5 to be more useful in <a href="https://www.youtube.com/watch?v=jmznx0Q1fP0">understanding machine learning.</a>
 
-   To see what I can do with this tool I followed one of their video tutorials <a href:"https://www.youtube.com/watch?v=8HEgeAbYphA&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y&index=15">**Training a Neural Network.**</a>
+   To see what I can do with this tool I followed one of their video tutorials <a href="https://www.youtube.com/watch?v=8HEgeAbYphA&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y&index=15">**Training a Neural Network.**</a>
 I didn’t completely understand everything that was going on and further research, and testing will have to be done in order to properly grasp it. Some key concepts however, I do understand.
 ```javascript
 function setup() { //this whole thing runs when starting
