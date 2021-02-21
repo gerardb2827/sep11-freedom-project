@@ -64,6 +64,7 @@ The **Skills** I worked on during this time are, _Embracing failure_ and _Proble
 It took me time to realize that all these problems just happen when you code. You can't expect to get everything correct on the first try, and the only way to more forward and grow is through struggle. This isn't to say that I didn't’ feel discouraged at all when coding. It was very frustrating and still is to this day when I’m coding. However this is what happens when you are learning on your own. 
 _Problem decomposition_ really helped me when going through all those failures. It helped me see that the problem I'm facing actually isn't as big as I was making it seem. Breaking it into smaller pieces made me see the problem from different angles. This was one of the reasons for why I switched to p5.js.
 It helped me see that I could take another route to get different results, and solve the problem I was facing. Doing that allowed me to make more progress much faster than if I was to just stay on github facing that one big problem.
+
 [Previous](entry02.md) | [Next](entry04.md)
 
 [Home](../README.md)
