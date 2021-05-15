@@ -56,6 +56,8 @@ Finally the `gotResult function` is what Mobilenet thinks the image is. _**Mobil
 The function then takes the first guess which has the highest score and labels the image as that guess. It would look something like <a href ="https://editor.p5js.org/gerardb2827/present/2wK8TJO8u">this</a>. By going into the console you will be able to see the other things the model thought it was.
 MobleNet however, doesn't always get the correct results. When shown a picture of a <a href = "https://editor.p5js.org/gerardb2827/present/mUx1bUh1o">ladybug</a> the highest confidence score it had was of a dragonfly with a confidence of 0.3. Interestingly enough the second highest score was a ladybug with a confidence score of 0.1. 
  
+![Images of samples](../images/Screenshot-2.png)
+
 In the **Engineering Design Process** I’m on _Create a prototype_. I understand what I need to do and my next steps from there. I'm going to have to research how to add picture to a pretrained model, and train it. I'm going to use this modle as a base and build on it to make it my own. 
 When I do figure out how to add on to a pretrained model I'm going to center it around common household bugs. That would be the most pratical use of the model, to help people identify whats in there house. My plan for training the model would be to first focus of one specific insect. From there I would have it work on that for a while, and make sure that its able to identify it at different angles.
 To make sure it would have pictures it has never seen before I would ask some friends to take picture of any insects they have in there house. 
