@@ -14,7 +14,7 @@ For my project, I am making an image classifier for insects. This blog will walk
 <a href="https://docs.google.com/presentation/d/15CqaWMAppr5-EA6YcHrlSQN0pZ6CTLqR3AgVmKtKnm4/edit?usp=sharing">Presentation</a>
 
 ## Implications
-This project could be used to help people judge their safety. With more images, training and labels, this could be used to quickly identify bugs around you. You could then judge weither or not your safe to be around that bug, or if you should take extra precautions.   
+This project could be used to help people judge their safety. With more images, training and labels, this could be used to quickly identify bugs around you. You could then judge weither or not your safe to be around that bug, or if you should take extra precautions. 
 
 ---
 
